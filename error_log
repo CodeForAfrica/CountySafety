@@ -1,0 +1,32 @@
+[16-Nov-2012 07:53:08 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 2
+[16-Nov-2012 07:53:08 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 3
+[16-Nov-2012 07:56:08 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 2
+[16-Nov-2012 07:56:08 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 3
+[16-Nov-2012 07:56:25 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 2
+[16-Nov-2012 07:56:25 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 3
+[16-Nov-2012 07:57:37 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 2
+[16-Nov-2012 07:57:37 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 3
+[16-Nov-2012 08:00:04 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 2
+[16-Nov-2012 08:00:04 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 3
+[16-Nov-2012 08:01:45 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 2
+[16-Nov-2012 08:01:45 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/timeline.php on line 3
+[16-Nov-2012 08:15:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[16-Nov-2012 08:16:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[16-Nov-2012 08:17:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[16-Nov-2012 08:49:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[16-Nov-2012 08:52:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[16-Nov-2012 08:53:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[16-Nov-2012 09:05:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[16-Nov-2012 09:07:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[16-Nov-2012 09:08:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[19-Nov-2012 06:19:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[19-Nov-2012 06:19:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[19-Nov-2012 06:20:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[19-Nov-2012 19:39:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/olala149/public_html/Code4Kenya/Labs/county_safety/stations.php on line 33
+[26-Nov-2012 13:31:55 UTC] PHP Fatal error:  Call to undefined function objectsIntoArray() in /home/olala149/public_html/Code4Kenya/Labs/county_safety/xml.php on line 5
+[26-Nov-2012 13:39:15 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting '&' or T_VARIABLE in /home/olala149/public_html/Code4Kenya/Labs/county_safety/xml.php on line 12
+[26-Nov-2012 13:39:52 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting '&' or T_VARIABLE in /home/olala149/public_html/Code4Kenya/Labs/county_safety/xml.php on line 12
+[26-Nov-2012 13:39:55 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting '&' or T_VARIABLE in /home/olala149/public_html/Code4Kenya/Labs/county_safety/xml.php on line 12
+[26-Nov-2012 13:56:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/olala149/public_html/Code4Kenya/Labs/county_safety/xml.php on line 40
+[26-Nov-2012 14:36:50 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/olala149/public_html/Code4Kenya/Labs/county_safety/news.php on line 35
+[26-Nov-2012 14:36:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/olala149/public_html/Code4Kenya/Labs/county_safety/news.php on line 35
